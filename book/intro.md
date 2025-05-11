@@ -43,27 +43,27 @@
   | 03     |                                   |
   | 04     |                                   |
   | 05     |                                   |
-  | 06     |                                   | 
-  | 07     | Assignment 1 Discussion           |
-  | 08     |                                   | 
-  | 09     |                                   | 
-  | 10     |                                   | 
-  | 11     |                                   | 
-  | 12     |                                   | 
-  | 13     | Assignment 2 Discussion           |
+  | 06     |                                   |
+  | 07     | Assignment #1 Discussion          |
+  | 08     |                                   |
+  | 09     |                                   |
+  | 10     |                                   |
+  | 11     |                                   |
+  | 12     |                                   |
+  | 13     | Assignment #2 Discussion          |
   | -      | Quiz-I                            |
   | 14     | Quiz-I Discussion                 |
-  | 15     |                                   | 
-  | 16     |                                   | 
+  | 15     |                                   |
+  | 16     |                                   |
   | 17     |                                   |
   | 18     |                                   |
   | 19     |                                   |
-  | 20     | Assignment 3 Discussion           |
+  | 20     | Assignment #3 Discussion          |
   | 21     |                                   |
   | 22     |                                   |
   | 23     |                                   |
   | 24     |                                   |
-  | 25     | Assignment 4 Discussion           |
+  | 25     | Assignment #4 Discussion          |
   | -      | Quiz-II                           |
   | 26     | Quiz-II Discussion                |
   | 27     |                                   |
@@ -71,14 +71,14 @@
   | 29     |                                   |
   | 31     |                                   |
   | 32     |                                   |
-  | 33     | Assignment 4 Discussion           |
+  | 33     | Assignment #5 Discussion          |
   | 34     |                                   |
   | 35     |                                   |
   | 36     |                                   |
   | 37     |                                   |
   | 38     |                                   |
   | 39     |                                   |
-  | 40     | Assignment 5 Discussion           |
+  | 40     | Assignment #6 Discussion          |
   | 41     |                                   |
   | 42     |                                   |
   | -      | End Sem                           |
@@ -88,7 +88,7 @@
 #### Assignments (10%)
 
   | S. No. | Content          | Marks | Due Date   |
-  |--------|------------------|-------|------------| 
+  |--------|------------------|-------|------------|
   | 1      | Lectures 02 - 06 |       | Lecture 7  |
   | 2      | Lectures 08 - 12 |       | Lecture 13 |
   | 3      | Lectures 15 - 19 |       | Lecture 20 |
