@@ -36,52 +36,53 @@
 
 ### Schedule
 
-  | S. No. | Topic                             |
-  |--------|-----------------------------------|
-  | 01     |                                   |
-  | 02     |                                   |
-  | 03     |                                   |
-  | 04     |                                   |
-  | 05     |                                   |
-  | 06     |                                   |
-  | 07     | Assignment #1 Discussion          |
-  | 08     |                                   |
-  | 09     |                                   |
-  | 10     |                                   |
-  | 11     |                                   |
-  | 12     |                                   |
-  | 13     | Assignment #2 Discussion          |
-  | -      | Quiz-I                            |
-  | 14     | Quiz-I Discussion                 |
-  | 15     |                                   |
-  | 16     |                                   |
-  | 17     |                                   |
-  | 18     |                                   |
-  | 19     |                                   |
-  | 20     | Assignment #3 Discussion          |
-  | 21     |                                   |
-  | 22     |                                   |
-  | 23     |                                   |
-  | 24     |                                   |
-  | 25     | Assignment #4 Discussion          |
-  | -      | Quiz-II                           |
-  | 26     | Quiz-II Discussion                |
-  | 27     |                                   |
-  | 28     |                                   |
-  | 29     |                                   |
-  | 31     |                                   |
-  | 32     |                                   |
-  | 33     | Assignment #5 Discussion          |
-  | 34     |                                   |
-  | 35     |                                   |
-  | 36     |                                   |
-  | 37     |                                   |
-  | 38     |                                   |
-  | 39     |                                   |
-  | 40     | Assignment #6 Discussion          |
-  | 41     |                                   |
-  | 42     |                                   |
-  | -      | End Sem                           |
+  | S. No. | Topic                                   | Session  |
+  |--------|-----------------------------------------|----------|
+  | 01     | Introduction                            | Lecture  |
+  | 02     | Probability Theory Fundamentals         | Lecture  |
+  | 03     | Basics of R                             | Tutorial |
+  | 04     | Common Distributions                    | Lecture  |
+  | 05     | Conditional Probability                 | Lecture  |
+  | 06     | Stochastic Experiments in R             | Tutorial |
+  | 07     | Assignment #1 Discussion                | Lecture  |
+  | 08     | Sampling & Confidence Intervals         | Lecture  |
+  | 09     | Stochastic Experiments in R             | Tutorial |
+  | 10     | Hypothesis Testing                      | Lecture  |
+  | 11     | Testing Errors                          | Lecture  |
+  | 12     | Statistical Inference in R              | Tutorial |
+  | 13     | Assignment #2 Discussion                | Lecture  |
+  | -      | Quiz-I                                  |          |
+  | 14     | Data Exploration                        | Lecture  |
+  | 15     | Exploratory Analysis in R               | Tutorial |
+  | 16     | Quiz-I Discussion                       | Lecture  |
+  | 17     | Visualisation Types                     | Lecture  |
+  | 18     | Data Visualization in R                 | Tutorial |
+  | 19     | Fundamentals of Regression              | Lecture  |
+  | 20     | Fundamentals of Regression              | Lecture  |
+  | 21     | Regression in R                         | Tutorial |
+  | 22     | Assignment #3 Discussion                | Lecture  |
+  | 23     | Symbolic Regression                     | Lecture  |
+  | 24     | Symbolic Regression in Python/Julia     | Tutorial |
+  | 25     | Case Study: Traffic Demand Modeling     | Lecture  |
+  | 26     | Assignment #4 Discussion                | Lecture  |
+  | -      | Quiz-II                                 |          |
+  | 27     | Setting up Python/Julia                 | Tutorial |
+  | 28     | Quiz-II Discussion                      | Lecture  |
+  | 29     | Simulation Modelling Basics             | Lecture  |
+  | 30     | Simulation in Python/Julia              | Tutorial |
+  | 31     | Simulation Models in Transportation     | Lecture  |
+  | 32     | Macroscopic Traffic Simulation          | Lecture  |
+  | 33     | Traffic Simulation in Python/Julia      | Tutorial |
+  | 34     | Microscopic Traffic Simulation          | Lecture  |
+  | 35     | Calibration and Validation              | Lecture  |
+  | 36     | Traffic Simulation in Python/Julia      | Tutorial |
+  | 37     | Optimization for Simulation             | Lecture  |
+  | 38     | Digital Shadow-Model-Twin               | Lecture  |
+  | 39     | Simulation-Optimization in Python/Julia | Tutorial |
+  | 40     | Assignment #5 Discussion                | Lecture  |
+  | 41     | Surplus Lecture                         | Lecture  |
+  | 42     | Surplus Tutorial                        | Tutorial |
+  | -      | End Sem                                 |          |
 
 ### Grading
 
@@ -89,24 +90,23 @@
 
   | S. No. | Content          | Marks | Due Date   |
   |--------|------------------|-------|------------|
-  | 1      | Lectures 02 - 06 |       | Lecture 7  |
+  | 1      | Lectures 01 - 06 |       | Lecture 7  |
   | 2      | Lectures 08 - 12 |       | Lecture 13 |
-  | 3      | Lectures 15 - 19 |       | Lecture 20 |
-  | 4      | Lectures 21 - 24 |       | Lecture 25 |
-  | 5      | Lectures 27 - 32 |       | Lecture 33 |
-  | 6      | Lectures 34 - 39 |       | Lecture 40 |
+  | 3      | Lectures 15 - 21 |       | Lecture 20 |
+  | 4      | Lectures 22 - 25 |       | Lecture 26 |
+  | 5      | Lectures 27 - 39 |       | Lecture 40 |
 
 #### Quiz (40%)
 
-  | S. No. | Content                   | Marks |
-  |--------|---------------------------|-------|
-  | 1      | Lectures 02 - 06, 08 - 12 |       |
-  | 2      | Lectures 15 - 19, 21 - 24 |       |
+  | S. No. | Content          | Marks |
+  |--------|------------------|-------|
+  | 1      | Lectures 01 - 13 |       |
+  | 2      | Lectures 14 - 26 |       |
 
 #### End Sem (50%)
 
-  | Content                   | Marks |
-  |---------------------------|-------|
-  | Lectures 02 - 06, 08 - 12 |       |
-  | Lectures 15 - 19, 21 - 24 |       |
-  | Lectures 27 - 32, 34 - 39 |       |
+  | Content          | Marks |
+  |------------------|-------|
+  | Lectures 01 - 13 |       |
+  | Lectures 14 - 26 |       |
+  | Lectures 27 - 40 |       |
