@@ -1,4 +1,4 @@
-# CE5540 - Optimisation Techniques in Transportation Engineering
+# CE5540 - Data Analysis and Computation Techniques for Transportation Engineers
 
 ### Objectives
 
