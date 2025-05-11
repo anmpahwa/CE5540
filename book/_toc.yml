@@ -3,3 +3,5 @@ root: intro.md
 
 parts:
   - caption: Content
+      chapters:
+    - file: content/lecture_01.ipynb
