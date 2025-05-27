@@ -1,0 +1,147 @@
+# Lecture 1: Introduction
+
+```{note}
+This course introduces you to the science of drawing conclusions from data. To this end, this introduction lecture introduces a taxonomy of data along with tools for presenting, summarizing, and displaying data.
+```
+
+---
+
+## Taxonomy of Data
+
+Data is a collection of observations of some quantity, quality, or category of some entity. For instance,
+
+| Entity             | Quantitative     | Qualitative         | Categorical                         |
+|--------------------|------------------|---------------------|-------------------------------------|
+| Temperature        | celsius          | pleasant/unpleasant | hot/cold                            |
+| Population Density | persons/sq.km.   | low/high            | rural/urban                         |
+| Age                | years            | young/old           | gen-z/millenial/gen-x/boomer/silent |
+| Weight             | kg               | under-/over-weight  | -                                   |
+| Height             | cm               | short/tall          | -                                   |
+| Family Size        | number of people | small/large         | -                                   |
+| Biological Sex     | -                | -                   | male/female                         |
+| Place of Birth     | -                | -                   | TN/RJ/WB/DL/...                     |
+| Religion           | -                | -                   | hinduism/islam/christianity/...     |
+
+```{tip}
+The distinction between qualitative and categorical can sometimes be blurry. Generally, if there is an implicit ordering of the values the variable can take here is a tendency to call a variable qualitative rather than categorical. 
+```
+
+```{warning}
+During data collection or eventually at data analysis stage, one may code certain qualitiative/categorical variables as numerical values. For instance, height can be coded as short - 0 and tall - 1; or age group can be represented as gen-z - 0, millenial - 1, gen-x - 2, boomer - 3, and silent - 4. Despite this recoding, the inherent nature of the entity remains the same.
+```
+
+The quantitative entities can be further categorised as discrete and continuous. Specifically, the discrete quantitiative entities are countables on-hand, while continuous quantitiative entities cannot be hand-counted. For instance, age in years is a discrete quantitiative entity, while height in precise cms is a continuous quantitiative entity.
+
+---
+
+### Test Yourself
+
+1. How would you classify data collected on eye-colour of new-born babies at a hospital?
+
+<form id="Q1">
+  <label><input type="radio" name="q1" value="a" onchange="checkRadioQ1()"> Discrete Quantitative</label><br>
+  <label><input type="radio" name="q1" value="b" onchange="checkRadioQ1()"> Continuous Quantitative</label><br>
+  <label><input type="radio" name="q1" value="c" onchange="checkRadioQ1()"> Qualitative</label><br>
+  <label><input type="radio" name="q1" value="d" onchange="checkRadioQ1()"> Categorical</label><br><br>
+</form>
+
+<p id="feedbackQ1"></p>
+
+<script>
+function checkRadioQ1() {
+  const options = document.getElementsByName("q1");
+  let selectedValue = "";
+  for (const option of options) {
+    if (option.checked) {
+      selectedValue = option.value;
+      break;
+    }
+  }
+
+  const feedback = document.getElementById("feedbackQ1");
+  if (!selectedValue) {
+    feedback.innerHTML = "";
+  } else if (selectedValue === "d") {
+    feedback.innerHTML = "✅ Correct! Eye colour data is a categorical entity.";
+  } else {
+    feedback.innerHTML = "❌ Incorrect. Try reviewing the data classifications again.";
+  }
+}
+</script>
+
+2. How would you classify data collected on annual rainfall in inches?
+
+<form id="Q2">
+  <label><input type="radio" name="q2" value="a" onchange="checkRadioQ2()"> Discrete Quantitative</label><br>
+  <label><input type="radio" name="q2" value="b" onchange="checkRadioQ2()"> Continuous Quantitative</label><br>
+  <label><input type="radio" name="q2" value="c" onchange="checkRadioQ2()"> Qualitative</label><br>
+  <label><input type="radio" name="q2" value="d" onchange="checkRadioQ2()"> Categorical</label><br><br>
+</form>
+
+<p id="feedbackQ2"></p>
+
+<script>
+function checkRadioQ2() {
+  const options = document.getElementsByName("q2");
+  let selectedValue = "";
+  for (const option of options) {
+    if (option.checked) {
+      selectedValue = option.value;
+      break;
+    }
+  }
+
+  const feedback = document.getElementById("feedbackQ2");
+  if (!selectedValue) {
+    feedback.innerHTML = "";
+  } else if (selectedValue === "b") {
+    feedback.innerHTML = "✅ Correct! Annural rainfall data is a continuous quantitative entity.";
+  } else {
+    feedback.innerHTML = "❌ Incorrect. Try reviewing the data classifications again.";
+  }
+}
+</script>
+
+3. How would you classify data collected on GDP per capita rounded of to the nearest $ value?
+
+<form id="Q3">
+  <label><input type="radio" name="q3" value="a" onchange="checkRadioQ3()"> Discrete Quantitative</label><br>
+  <label><input type="radio" name="q3" value="b" onchange="checkRadioQ3()"> Continuous Quantitative</label><br>
+  <label><input type="radio" name="q3" value="c" onchange="checkRadioQ3()"> Qualitative</label><br>
+  <label><input type="radio" name="q3" value="d" onchange="checkRadioQ3()"> Categorical</label><br><br>
+</form>
+
+<p id="feedbackQ3"></p>
+
+<script>
+function checkRadioQ3() {
+  const options = document.getElementsByName("q3");
+  let selectedValue = "";
+  for (const option of options) {
+    if (option.checked) {
+      selectedValue = option.value;
+      break;
+    }
+  }
+
+  const feedback = document.getElementById("feedbackQ3");
+  if (!selectedValue) {
+    feedback.innerHTML = "";
+  } else if (selectedValue === "a") {
+    feedback.innerHTML = "✅ Correct! GDP per capita data rounded of to the nearest $ value is a discrete quantitative entity.";
+  } else {
+    feedback.innerHTML = "❌ Incorrect. Try reviewing the data classifications again.";
+  }
+}
+</script>
+
+---
+
+## Summarizing Data
+
+To showcase the process of summarizing data, we shall use the 2024 Indian Time Use Survey (ITUS). 
+
+```{note}
+A Time Use Survey, as the name suggests, is a systematic record of how individuals allocate their time across various activities over the course of a day. It captures detailed information on the duration, type, and context of each activity—such as working, commuting, household chores, leisure, caregiving, and personal care—typically over a 24-hour period. By documenting these daily routines, time use surveys provide valuable insights into patterns of labor participation (both paid and unpaid), gender roles, economic productivity, social engagement, and lifestyle behaviors within a population.
+```
+
