@@ -5,4 +5,3 @@ parts:
   - caption: Content
     chapters:
     - file: content/lecture_01.ipynb
-    - file: content/test.rmd
