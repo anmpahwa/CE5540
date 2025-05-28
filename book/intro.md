@@ -38,7 +38,7 @@
 
   | S. No. | Topic                                   | Session  |
   |--------|-----------------------------------------|----------|
-  | 01     | Introduction                            | Lecture  |
+  | 01     | Data                                    | Lecture  |
   | 02     | Probability Theory Fundamentals         | Lecture  |
   | 03     | Basics of R                             | Tutorial |
   | 04     | Common Distributions                    | Lecture  |
