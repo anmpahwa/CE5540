@@ -135,4 +135,6 @@ _build/
 
 # poetry files
 pyproject.toml
+
+# other files
 Course Outline.doc
