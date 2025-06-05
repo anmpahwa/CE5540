@@ -41,8 +41,8 @@
   | 01     | Data                                    | Lecture  |
   | 02     | Statistics                              | Lecture  |
   | 03     | Basics of R                             | Tutorial |
-  | 04     | Common Distributions                    | Lecture  |
-  | 05     | Conditional Probability                 | Lecture  |
+  | 04     | Probability Theory                      | Lecture  |
+  | 05     | Probability Theory                      | Lecture  |
   | 06     | Stochastic Experiments in R             | Tutorial |
   | 07     | Assignment #1 Discussion                | Lecture  |
   | 08     | Sampling & Confidence Intervals         | Lecture  |
