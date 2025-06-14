@@ -39,13 +39,13 @@
   | S. No. | Topic                                   | Session  |
   |--------|-----------------------------------------|----------|
   | 01     | Data                                    | Lecture  |
-  | 02     | Probability Theory Fundamentals         | Lecture  |
+  | 02     | Statistics                              | Lecture  |
   | 03     | Basics of R                             | Tutorial |
-  | 04     | Common Distributions                    | Lecture  |
-  | 05     | Conditional Probability                 | Lecture  |
+  | 04     | Probability Theory                      | Lecture  |
+  | 05     | Distributions                           | Lecture  |
   | 06     | Stochastic Experiments in R             | Tutorial |
-  | 07     | Assignment #1 Discussion                | Lecture  |
-  | 08     | Sampling & Confidence Intervals         | Lecture  |
+  | 07     | Sampling                                | Lecture  |
+  | 08     | Estimation                              | Lecture  |
   | 09     | Stochastic Experiments in R             | Tutorial |
   | 10     | Hypothesis Testing                      | Lecture  |
   | 11     | Testing Errors                          | Lecture  |
