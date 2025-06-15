@@ -48,7 +48,7 @@
   | 08     | Estimation                              | Lecture  |
   | 09     | Stochastic Experiments in R             | Tutorial |
   | 10     | Hypothesis Testing                      | Lecture  |
-  | 11     | Testing Errors                          | Lecture  |
+  | 11     | Hypothesis Tests                        | Lecture  |
   | 12     | Statistical Inference in R              | Tutorial |
   | 13     | Assignment #2 Discussion                | Lecture  |
   | -      | Quiz-I                                  |          |
