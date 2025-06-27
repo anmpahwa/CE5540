@@ -43,14 +43,14 @@
   | 03     | Basics of R                             | Tutorial |
   | 04     | Probability Theory                      | Lecture  |
   | 05     | Distributions                           | Lecture  |
-  | 06     | Stochastic Experiments in R             | Tutorial |
+  | 06     | Probability Analysis in R               | Tutorial |
   | 07     | Sampling                                | Lecture  |
   | 08     | Estimation                              | Lecture  |
-  | 09     | Stochastic Experiments in R             | Tutorial |
+  | 09     | Sampling in R                           | Tutorial |
   | 10     | Hypothesis Testing                      | Lecture  |
   | 11     | Hypothesis Tests                        | Lecture  |
-  | 12     | Statistical Inference in R              | Tutorial |
-  | 13     | Assignment #2 Discussion                | Lecture  |
+  | 12     | Assignment #1 Discussion                | Tutorial |
+  | 13     | -                                       | Lecture  |
   | -      | Quiz-I                                  |          |
   | 14     | Data Exploration                        | Lecture  |
   | 15     | Exploratory Analysis in R               | Tutorial |
@@ -90,11 +90,9 @@
 
   | S. No. | Content          | Marks | Due Date   |
   |--------|------------------|-------|------------|
-  | 1      | Lectures 01 - 06 |       | Lecture 7  |
-  | 2      | Lectures 08 - 12 |       | Lecture 13 |
-  | 3      | Lectures 15 - 21 |       | Lecture 20 |
-  | 4      | Lectures 22 - 25 |       | Lecture 26 |
-  | 5      | Lectures 27 - 39 |       | Lecture 40 |
+  | 1      | Lectures 01 - 11 |       | Lecture 12 |
+  | 2      | Lectures 14 - 24 |       | Lecture 25 |
+  | 3      | Lectures 27 - 37 |       | Lecture 38 |
 
 #### Quiz (40%)
 
