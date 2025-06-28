@@ -50,21 +50,21 @@
   | 10     | Hypothesis Testing                      | Lecture  |
   | 11     | Hypothesis Tests                        | Lecture  |
   | 12     | Assignment #1 Discussion                | Tutorial |
-  | 13     | -                                       | Lecture  |
+  | 13     | Surplus Lecture                         | Lecture  |
   | -      | Quiz-I                                  |          |
-  | 14     | Data Exploration                        | Lecture  |
-  | 15     | Exploratory Analysis in R               | Tutorial |
-  | 16     | Quiz-I Discussion                       | Lecture  |
-  | 17     | Visualisation Types                     | Lecture  |
-  | 18     | Data Visualization in R                 | Tutorial |
+  | 14     | Data Visualization                      | Lecture  |
+  | 15     | Data Visualization in R                 | Tutorial |
+  | 16     | Data Association                        | Lecture  |
+  | 17     | Data Correlation                        | Lecture  |
+  | 18     | Exploratory Analysis in R               | Tutorial |
   | 19     | Fundamentals of Regression              | Lecture  |
   | 20     | Fundamentals of Regression              | Lecture  |
   | 21     | Regression in R                         | Tutorial |
-  | 22     | Assignment #3 Discussion                | Lecture  |
+  | 22     | Symbolic Regression                     | Lecture  |
   | 23     | Symbolic Regression                     | Lecture  |
   | 24     | Symbolic Regression in Python/Julia     | Tutorial |
   | 25     | Case Study: Traffic Demand Modeling     | Lecture  |
-  | 26     | Assignment #4 Discussion                | Lecture  |
+  | 26     | Assignment #2 Discussion                | Lecture  |
   | -      | Quiz-II                                 |          |
   | 27     | Setting up Python/Julia                 | Tutorial |
   | 28     | Quiz-II Discussion                      | Lecture  |
