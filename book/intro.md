@@ -52,11 +52,11 @@
   | 12     | Assignment #1 Discussion                | Tutorial |
   | 13     | Surplus Lecture                         | Lecture  |
   | -      | Quiz-I                                  |          |
-  | 14     | Data Visualization                      | Lecture  |
-  | 15     | Data Visualization in R                 | Tutorial |
-  | 16     | Data Association                        | Lecture  |
-  | 17     | Data Correlation                        | Lecture  |
-  | 18     | Exploratory Analysis in R               | Tutorial |
+  | 14     | Multivariate Data                       | Lecture  |
+  | 15     | Surplus Tutorial                        | Tutorial |
+  | 16     | Data Association & Correlation          | Lecture  |
+  | 17     | Data Visualization                      | Lecture  |
+  | 18     | Visualizing Data in R                   | Tutorial |
   | 19     | Fundamentals of Regression              | Lecture  |
   | 20     | Fundamentals of Regression              | Lecture  |
   | 21     | Regression in R                         | Tutorial |
