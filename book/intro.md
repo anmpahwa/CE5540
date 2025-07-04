@@ -54,8 +54,8 @@
   | -      | Quiz-I                                  |          |
   | 14     | Multivariate Data                       | Lecture  |
   | 15     | Surplus Tutorial                        | Tutorial |
-  | 16     | Data Association & Correlation          | Lecture  |
-  | 17     | Data Visualization                      | Lecture  |
+  | 16     | Data Visualization                      | Lecture  |
+  | 17     | Data Association & Correlation          | Lecture  |
   | 18     | Multivariate Data Analysis in R         | Tutorial |
   | 19     | Fundamentals of Regression              | Lecture  |
   | 20     | Fundamentals of Regression              | Lecture  |
