@@ -57,8 +57,8 @@
   | 16     | Data Visualization                      | Lecture  |
   | 17     | Data Association                        | Lecture  |
   | 18     | Multivariate Data Analysis in R         | Tutorial |
-  | 19     | Fundamentals of Regression              | Lecture  |
-  | 20     | Fundamentals of Regression              | Lecture  |
+  | 19     | Regression                              | Lecture  |
+  | 20     | Diagnostics                             | Lecture  |
   | 21     | Regression in R                         | Tutorial |
   | 22     | Symbolic Regression                     | Lecture  |
   | 23     | Symbolic Regression                     | Lecture  |
