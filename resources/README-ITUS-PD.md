@@ -9,12 +9,6 @@ Tag: Descriptive identification of sample households.
 Columns:
 - Unique_HH_ID: unique ids to identify each household(survey_year - fsu_serial_no - sector - nss_region - district - stratum - sub_stratum 
                                                       - sub_round - fod_sub_region - nsc - household_id)
-- sector: whether fsu falls within rural or urban
-    - 1: rural
-    - 2: urban
-- stratum: stratum 
-- district: district code
-- population: district population
 - day_of_week: survey day of the week
     - 1: monday
     - 2: tuesday
@@ -23,6 +17,10 @@ Columns:
     - 5: friday
     - 6: saturday
     - 7: sunday
+- sector: whether fsu falls within rural or urban
+    - 1: rural
+    - 2: urban
+- district_population: district population
 - gender ratio: ratio of no. of female in the household to household size
 - average_age: average age of household members
 - marital_status: marital status of the household
@@ -75,9 +73,7 @@ Columns:
     - 3: both in-store and online shopping
 
 #### Note
-1. All missing data is represented by 9999.
-2. Definition data mismatch for stratum and sub stratum code; refer to Indian Time Use Survery for more details.
-2. The first 11 columns identify the surveyed household, the next 11 columns inform the survey metadata, the next 15 columns detail informant's response, and the last column assigns a weight to this household.
+All missing data is represented by 9999.
 
 ---
 
@@ -90,12 +86,6 @@ Columns:
                                                       - sub_round - fod_sub_region - nsc - household_id - individual_id)
 - Unique_HH_ID: unique ids to identify each household(survey_year - fsu_serial_no - sector - nss_region - district - stratum - sub_stratum 
                                                       - sub_round - fod_sub_region - nsc - household_id)
-- sector: whether fsu falls within rural or urban
-    - 1: rural
-    - 2: urban
-- stratum: stratum code (definition data mismatch; refer to Indian Time Use Survey for more details)
-- district: district code
-- population: district population
 - day_of_week: survey day of the week
     - 1: monday
     - 2: tuesday
@@ -104,6 +94,10 @@ Columns:
     - 5: friday
     - 6: saturday
     - 7: sunday
+- sector: whether fsu falls within rural or urban
+    - 1: rural
+    - 2: urban
+- district_population: district population
 - gender: individual's gender
     - 1: male
     - 2: female
@@ -123,7 +117,7 @@ Columns:
     - 6: higher secondary
     - 7: diploma /certificate course (up to secondary)
     - 8: diploma/certificate course (higher secondary)
-    - 9: diploma/certificate course(graduation & above)
+    - 9: diploma/certificate course (graduation & above)
     - 10: graduate
     - 11: post graduate and above
 - employment_status: individual's employment status
@@ -184,8 +178,6 @@ Columns:
     - 3: both in-store and online shopping
 
 #### Note
-1. All missing data is represented by 9999.
-2. Definition data mismatch for stratum and sub stratum code; refer to Indian Time Use Survery for more details.
-3. The first 12 columns identify the surveyed individual, the next 5 columns inform the survey metadata, the next 8 columns detail individual's response, and the last column assigns a weight to this individual.
+All missing data is represented by 9999.
 
 ---
