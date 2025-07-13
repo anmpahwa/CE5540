@@ -57,12 +57,12 @@
   | 16     | Data Visualization                      | Lecture  |
   | 17     | Data Association                        | Lecture  |
   | 18     | Multivariate Data Analysis in R         | Tutorial |
-  | 19     | Regression                              | Lecture  |
-  | 20     | Diagnostics                             | Lecture  |
-  | 21     | Regression in R                         | Tutorial |
-  | 22     | Symbolic Regression                     | Lecture  |
+  | 19     | Linear Regression - Foundations         | Lecture  |
+  | 20     | Linear Regression - Diagnostics         | Lecture  |
+  | 21     | Linear Regression in R                  | Tutorial |
+  | 22     | Logistical Regression                   | Lecture  |
   | 23     | Symbolic Regression                     | Lecture  |
-  | 24     | Symbolic Regression in Python/Julia     | Tutorial |
+  | 24     | Regression Analytics in R               | Tutorial |
   | 25     | Case Study: Traffic Demand Modeling     | Lecture  |
   | 26     | Assignment #2 Discussion                | Lecture  |
   | -      | Quiz-II                                 |          |
