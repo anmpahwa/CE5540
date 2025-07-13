@@ -60,9 +60,9 @@
   | 19     | Linear Regression - Foundations         | Lecture  |
   | 20     | Linear Regression - Diagnostics         | Lecture  |
   | 21     | Linear Regression in R                  | Tutorial |
-  | 22     | Linear Regression - Foundations         | Lecture  |
-  | 23     | Linear Regression - Diagnostics         | Lecture  |
-  | 24     | Linear Regression in R                  | Tutorial |
+  | 22     | Logistical Regression - Foundations     | Lecture  |
+  | 23     | Logistical Regression - Diagnostics     | Lecture  |
+  | 24     | Logistical Regression in R              | Tutorial |
   | 25     | Symbolic Regression                     | Lecture  |
   | 26     | Assignment #2 Discussion                | Lecture  |
   | -      | Quiz-II                                 |          |
