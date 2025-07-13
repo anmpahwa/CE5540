@@ -24,3 +24,6 @@ parts:
     - file: content/lecture_18.ipynb
     - file: content/lecture_19.ipynb
     - file: content/lecture_20.ipynb
+    - file: content/lecture_21.ipynb
+    - file: content/lecture_22.ipynb
+    - file: content/lecture_23.ipynb
