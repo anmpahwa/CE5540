@@ -138,3 +138,4 @@ pyproject.toml
 
 # other files
 Course Outline.doc
+.DS_Store
