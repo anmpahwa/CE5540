@@ -1,0 +1,420 @@
+# Indian Time Use Survey - 2024
+
+## Household Data
+
+### OG
+
+Tag: Descriptive identification of sample households.
+Columns:
+- survey_year: 2024
+- fsu_serial_no: first stage unit serial number
+- sector: whether fsu falls within rural or urban
+    - 1: rural
+    - 2: urban
+- nss_region: National Service Scheme region code (refer to List of NSS Regions)
+- district: district code (refer to List of States and Districts)
+- stratum: stratum code
+- sub_stratum: sub stratum code
+- sub_round: survey round
+    - 1: jan - mar
+    - 2: apr - jun
+    - 3: jul - sep
+    - 4: oct - dec
+- fod_sub_region: Field Operational Division of National Sample Survey Office (refer to List of FOD Sub-Regions)
+- nsc: number of first stage units surveyed within a stratum x substratum for each state x sector
+- household_id: household identity code
+- informant_id: individual identity code (individual_id) of the informant
+    - x: household member
+    - 990: household non-member
+- response_code: informant response
+    - 1: co-operative and capable
+    - 2: co-operative but not capable
+    - 3: busy
+    - 4: reluctant
+    - 9: others
+- survey_code: status of household survey
+    - 1: original
+    - 2: substitute
+    - 3: casualty
+- substitution_code: reason for substitution of original household
+    - 1: informant busy
+    - 2: members away from home
+    - 3: informant non-cooperative
+    - 9: others
+- time_to_canvass: total time taken to canvass the survey by the team of investigators
+- household_size: number of members of the household
+- religion: household religion
+    - 1: hinduism
+    - 2: islam
+    - 3: christianity
+    - 4: sikhism
+    - 5: jainism
+    - 6: buddhism
+    - 7: zoroastrianism
+    - 9: others
+- social_group
+    - 1: scheduled tribe
+    - 2: scheduled caste
+    - 3: other backward class
+    - 4: others
+- land_possessed
+    - 99: 0.00 hectare
+    - 1: < 0.01 hectare
+    - 2: [0.01, 0.05) hectare
+    - 3: [0.05, 0.5) hectare
+    - 4: [0.5, 1.0) hectare
+    - 5: [1.0, 2.5) hectare
+    - 6: [2.5, 5.0) hectare
+    - 7: [5.0, 7.5) hectare
+    - 8: [7.5, 10.0) hectare
+    - 10: [10.0, 15.0) hectare
+    - 11: [15.0, 20.0) hectare
+    - 12: >= 20 hectare
+- expenditure_pcs: monthly consumer expenditure for household purposes out of purchase
+- expenditure_hgs: monthly consumer expenditure from home grown stock (imputed value)
+- expenditure_osc: monthly consumer expenditure from other sources such as wages in kind, free collection, gifts, etc. (imputed value)
+- expenditure_cfs: monthly consumer expenditure on clothing, footwear etc. during last 365 days
+- expenditure_hds: monthly consumer expenditure on household durables
+- total_expenditure: total monthly expenditure
+- energy_cooking: primary source of energy for cooking during last 30 days
+    - 1: firewood and chips
+    - 2: LPG
+    - 3: other natural gas
+    - 4: dung cake
+    - 5: kerosene
+    - 6: coke orcoal
+    - 7: gobar gas
+    - 8: other biogas
+    - 10: charcoal
+    - 11: electricity
+    - 12: no cooking arrangement
+    - 19: others
+- energy_lighting: primary source of energy for lighting during last 30 days
+    - 1: electricity
+    - 2: kerosene
+    - 3: other oil
+    - 4: gas
+    - 5: candle
+    - 6: no lighting arrangement
+    - 9: others
+- clothes_wash: primary type of washing of clothes during last 30 days
+    - 1: mechanical by household members
+    - 2: manual by household members
+    - 3: outsourced
+- floor_sweep: primary type of sweeping of floor during last 30 days
+    - 1: mechanical by household members
+    - 2: manual by household members
+    - 3: outsourced
+- dwelling_unit: type of dwelling unit
+    - 1: owned
+    - 2: hired
+    - 3: no dwelling unit
+    - 9: others
+- dwelling_structure: type of the structure of the dwelling unit
+    - 1: kutcha
+    - 2: semi pucca
+    - 3: pucca
+- special_care: is there any member in the household aged 5 years and above who needs special care?
+    - 1: yes
+    - 2: no
+- care giver: is there any care giver available among the household members for caring the person(s)?
+    - 1: yes
+    - 2: no
+- weight: survey weight assigned to the household
+
+### DT & BD
+
+Tag: Descriptive identification of sample households.
+Columns:
+- Unique_HH_ID: unique ids to identify each household(survey_year - fsu_serial_no - sector - nss_region - district - stratum - sub_stratum 
+                                                      - sub_round - fod_sub_region - nsc - household_id)
+- time_of_year: survey round
+    - 1: jan - mar                                                                                              (q1)
+    - 2: apr - jun                                                                                              (q2)
+    - 3: jul - sep                                                                                              (q3)
+    - 4: oct - dec                                                                                              (q4)
+- day_of_week: survey day of the week
+    - 1: monday                                                                                                 (weekday)
+    - 2: tuesday                                                                                                (weekday)
+    - 3: wednesday                                                                                              (weekday)
+    - 4: thursday                                                                                               (weekday)
+    - 5: friday                                                                                                 (weekday)
+    - 6: saturday                                                                                               (weekend)
+    - 7: sunday                                                                                                 (weekend)
+- sector: whether fsu falls within rural or urban
+    - 1: rural
+    - 2: urban
+- region:
+    - 1: north
+    - 2: west
+    - 3: central
+    - 4: east
+    - 5: north-east
+    - 6: south
+- distric_population: district population                                                                       (tier-I/II/III)
+- gender_ratio: ratio of no. of female in the household to household size
+- average_age: average age of household members
+- marital_status: marital status of the household
+    - 1: all are single                                                                                         (not_married)
+    - 2: at least one individual is married                                                                     (married)
+    - 3: others                                                                                                 (not_married)
+- highest_edulevel: maximum education level in a household                                                      (not_literate/primary/secondary/graduate_&_above)
+- employment_ratio: ratio of no of employed individuals in a household to household size
+- family_structure: ratio of no. of individuals of age 18 and below in a household to household  size
+- household_size: number of members of the household
+- religion: household religion
+    - 1: hinduism
+    - 2: islam
+    - 3: christianit
+    - 4: sikhism
+    - 5: jainism
+    - 6: buddhism
+    - 7: zoroastrianism
+    - 9: others
+- social_group
+    - 1: scheduled tribe                                                                                        (disadvantaged)
+    - 2: scheduled caste                                                                                        (disadvantaged)
+    - 3: other backward class                                                                                   (disadvantaged)
+    - 9: others                                                                                                 (not_disadvantaged)
+- land_possessed
+    - 99: 0.00 hectare                                                                                          (no_land)
+    - 1: (0.00, 0.005) hectare                                                                                  (land_possessed)
+    - 2: [0.005, 0.02) hectare                                                                                  (land_possessed)
+    - 3: [0.02, 0.21) hectare                                                                                   (land_possessed)
+    - 4: [0.21, 0.41) hectare                                                                                   (land_possessed)
+    - 5: [0.41, 1.01) hectare                                                                                   (land_possessed)
+    - 6: [1.01, 2.01) hectare                                                                                   (land_possessed)
+    - 7: [2.01, 3.01) hectare                                                                                   (land_possessed)
+    - 8: [3.01, 4.01) hectare                                                                                   (land_possessed)
+    - 9: [4.01, 5.01) hectare                                                                                   (land_possessed)
+    - 10: [5.01, 6.01) hectare                                                                                  (land_possessed)
+    - 11: [6.01, 8.01) hectare                                                                                  (land_possessed)
+    - 12: >= 8.01 hectare                                                                                       (land_possessed)
+- total_expenditure: total monthly expenditure                                                                  (low/medium/high income
+- dwelling_unit: type of dwelling unit
+    - 1: owned
+    - 2: hired
+    - 3: no dwelling unit                                                                                       (no_dwelling)
+    - 9: others
+- dwelling_structure: type of the structure of the dwelling unit
+    - 1: kutcha                                                                                                 (kutcha)
+    - 2: semi pucca                                                                                             (pucca)
+    - 3: pucca                                                                                                  (pucca)
+- weight: survey weight assigned to the household
+- shopping_choice: choice of shopping channel by the household
+    - 0: no shopping
+    - 1: in-store shopping
+    - 2: online shopping
+    - 3: both in-store and online shopping
+
+#### Note
+All missing data is represented by 99999
+
+---
+
+## Individual Data
+
+### OG
+
+Tag: Demographic particulars of all the household members.
+Columns:
+- survey_year: 2024
+- fsu_serial_no: first stage unit serial number
+- sector: whether fsu falls within rural or urban
+    - 1: rural
+    - 2: urban
+- nss_region: National Service Scheme region code (refer to List of NSS Regions)
+- district: district code (refer to List of States and Districts)
+- stratum: stratum code (definition data mismatch; refer to Indian Time Use Survery for more details)
+- sub_stratum: sub stratum code (definition data mismatch; refer to Indian Time Use Survery for more details)
+- sub_round: survey round
+    - 1: jan - mar
+    - 2: apr - jun
+    - 3: jul - sep
+    - 4: oct - dec
+- fod_sub_region: Field Operational Division of National Sample Survey Office (refer to List of FOD Sub-Regions)
+- nsc: number of first stage units surveyed within a stratum x substratum for each state x sector
+- household_id: household identity code
+- individual_id: individual identity code
+- response_code: individual response
+    - 1: cooperative
+    - 2: non-cooperative
+- day_of_week: survey day of the week
+    - 1: monday
+    - 2: tuesday
+    - 3: wednesday
+    - 4: thursday
+    - 5: friday
+    - 6: saturday
+    - 7: sunday
+- type_of_day: survey day type
+    - 1: routine day
+    - 2: non-routine day
+- relation_to_head: individual's relationship to the head of the house
+    - 1: self
+    - 2: spouse of head
+    - 3: married child
+    - 4: spouse of married child
+    - 5: unmarried child
+    - 6: grandchild -6,
+    - 7: father/mother/father-in-law/mother-in-law
+    - 8: brother/sister/brother-in-law/sister-in-law/other relatives
+    - 9: servants/employees/other non-relatives
+- gender: individual's gender
+    - 1: male
+    - 2: female
+    - 3: transgender
+- age: individual's age
+- marital_status: individual's martial status
+    - 1: never married
+    - 2: currently married
+    - 3: widowed
+    - 4: divorced/separated
+- education_level: individual's education level
+    - 1: not literate
+    - 2: literate: below primary
+    - 3: primary
+    - 4: upper primary/middle
+    - 5: secondary
+    - 6: higher secondary
+    - 7: diploma /certificate course (up to secondary)
+    - 8: diploma/certificate course (higher secondary)
+    - 10: diploma/certificate course(graduation & above)
+    - 11: graduate
+    - 12: post graduate and above
+- employment_status: individual's employment status
+    - 11: working as own account worker in household enterprise
+    - 12: working as employer in household enterprise
+    - 21: working as helper in household enterprise (unpaid family worker)
+    - 31: working as regular salaried/wage employee
+    - 41: working as casual wage labour in public works
+    - 51: working as casual wage labour in other types of work
+    - 81: did not work but was seeking and/or available for work
+    - 91: attending educational institution
+    - 92: attending domestic duties only
+    - 93: attending domestic duties and is also engaged in unpaid household enterprise for household use
+    - 94: rentiers, pensioners, remittance recipients, etc.
+    - 95: not able to work due to disability
+    - 97: others (including begging, prostitution, etc.)
+- industry: 2-digit code (excluding 98) as per National Industrial Classification (NIC) 2008 (refer to List of National Industrial Classifications)
+- weight: survey weight assigned to the individual
+
+### DT & BD
+
+Tag: Demographic particulars of all the household members.
+Columns:
+- Unique_ID: unique ids to identify each household(survey_year - fsu_serial_no - sector - nss_region - district - stratum - sub_stratum 
+                                                      - sub_round - fod_sub_region - nsc - household_id - individual_id)
+- Unique_HH_ID: unique ids to identify each household(survey_year - fsu_serial_no - sector - nss_region - district - stratum - sub_stratum 
+                                                      - sub_round - fod_sub_region - nsc - household_id)
+- time_of_year: survey round
+    - 1: jan - mar                                                                                              (q1)
+    - 2: apr - jun                                                                                              (q2)
+    - 3: jul - sep                                                                                              (q3)
+    - 4: oct - dec                                                                                              (q4)
+- day_of_week: survey day of the week
+    - 1: monday                                                                                                 (weekday)
+    - 2: tuesday                                                                                                (weekday)
+    - 3: wednesday                                                                                              (weekday)
+    - 4: thursday                                                                                               (weekday)
+    - 5: friday                                                                                                 (weekday)
+    - 6: saturday                                                                                               (weekend)
+    - 7: sunday                                                                                                 (weekend)
+- sector: whether fsu falls within rural or urban
+    - 1: rural
+    - 2: urban
+- region:
+    - 1: north
+    - 2: west
+    - 3: central
+    - 4: east
+    - 5: north-east
+    - 6: south
+- distric_population: district population                                                                       (tier-I/II/III)
+- gender: individual's gender
+    - 1: male
+    - 2: female
+    - 3: transgender
+- age: individual's age                                                                                         (gen_alpha/gen_z/millenials/gen_x/baby_boomers/silent)
+- marital_status: individual's martial status
+    - 1: never married                                                                                          (not_married)
+    - 2: currently married                                                                                      (married)
+    - 3: widowed                                                                                                (not_married)
+    - 4: divorced/separated                                                                                     (not_married)
+- education_level: individual's education level
+    - 1: not literate                                                                                           (not_literate)
+    - 2: literate: below primary                                                                                (primary)
+    - 3: primary                                                                                                (primary)
+    - 4: upper primary/middle                                                                                   (primary)
+    - 5: secondary                                                                                              (secondary)
+    - 6: higher secondary                                                                                       (secondary)
+    - 7: diploma /certificate course (up to secondary)                                                          (secondary)
+    - 8: diploma/certificate course (higher secondary)                                                          (secondary)
+    - 9: diploma/certificate course(graduation & above)                                                         (graduation_&_above)
+    - 10: graduate                                                                                              (graduation_&_above)
+    - 11: post graduate and above                                                                               (graduation_&_above)
+- employment_status: individual's employment status
+    - 11: working as own account worker in household enterprise                                                 (employed)
+    - 12: working as employer in household enterprise                                                           (employed)
+    - 21: working as helper in household enterprise (unpaid family worker)                                      (employed)
+    - 31: working as regular salaried/wage employee                                                             (employed)
+    - 41: working as casual wage labour in public works                                                         (employed)
+    - 51: working as casual wage labour in other types of work                                                  (employed)
+    - 81: did not work but was seeking and/or available for work                                                (unemployed)
+    - 91: attending educational institution                                                                     (nilf)
+    - 92: attending domestic duties only                                                                        (nilf)
+    - 93: attending domestic duties and is also engaged in unpaid household enterprise for household use        (nilf)
+    - 94: rentiers, pensioners, remittance recipients, etc.                                                     (nilf)
+    - 95: not able to work due to disability                                                                    (nilf)
+    - 97: others (including begging, prostitution, etc.)                                                        (nilf)
+- family_structure: ratio of no. of individuals of age 18 and below in a household to household  size 
+- household_size: number of members of the household
+- religion: household religion
+    - 1: hinduism
+    - 2: islam
+    - 3: christianit
+    - 4: sikhism
+    - 5: jainism
+    - 6: buddhism
+    - 7: zoroastrianism
+    - 9: others
+- social_group
+    - 1: scheduled tribe                                                                                        (disadvantaged)
+    - 2: scheduled caste                                                                                        (disadvantaged)
+    - 3: other backward class                                                                                   (disadvantaged)
+    - 9: others                                                                                                 (not_disadvantaged)
+- land_possessed
+    - 99: 0.00 hectare                                                                                          (no_land)
+    - 1: (0.00, 0.005) hectare                                                                                  (land_possessed)
+    - 2: [0.005, 0.02) hectare                                                                                  (land_possessed)
+    - 3: [0.02, 0.21) hectare                                                                                   (land_possessed)
+    - 4: [0.21, 0.41) hectare                                                                                   (land_possessed)
+    - 5: [0.41, 1.01) hectare                                                                                   (land_possessed)
+    - 6: [1.01, 2.01) hectare                                                                                   (land_possessed)
+    - 7: [2.01, 3.01) hectare                                                                                   (land_possessed)
+    - 8: [3.01, 4.01) hectare                                                                                   (land_possessed)
+    - 9: [4.01, 5.01) hectare                                                                                   (land_possessed)
+    - 10: [5.01, 6.01) hectare                                                                                  (land_possessed)
+    - 11: [6.01, 8.01) hectare                                                                                  (land_possessed)
+    - 12: >= 8.01 hectare                                                                                       (land_possessed)
+- total_expenditure: total monthly expenditure                                                                  (low/medium/high income
+- dwelling_unit: type of dwelling unit
+    - 1: owned
+    - 2: hired
+    - 3: no dwelling unit                                                                                       (no_dwelling)
+    - 9: others
+- dwelling_structure: type of the structure of the dwelling unit
+    - 1: kutcha                                                                                                 (kutcha)
+    - 2: semi pucca                                                                                             (pucca)
+    - 3: pucca                                                                                                  (pucca)
+- weight: survey weight assigned to the individual
+- shopping_choice: choice of shopping channel by the household
+    - 0: no shopping
+    - 1: in-store shopping
+    - 2: online shopping
+    - 3: both in-store and online shopping
+
+#### Note
+All missing data is represented by 9999.
+
+---
