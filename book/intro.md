@@ -79,7 +79,7 @@
   | 37     | Optimization for Simulation             | Lecture  |
   | 38     | Digital Shadow-Model-Twin               | Lecture  |
   | 39     | Simulation-Optimization in Python/Julia | Tutorial |
-  | 40     | Assignment #5 Discussion                | Lecture  |
+  | 40     | Assignment #3 Discussion                | Lecture  |
   | 41     | Surplus Lecture                         | Lecture  |
   | 42     | Surplus Tutorial                        | Tutorial |
   | -      | End Sem                                 |          |
