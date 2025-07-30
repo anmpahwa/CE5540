@@ -86,25 +86,29 @@
 
 ### Grading
 
+#### Tutorials (10%)
+  
+  - Grading for tutorials will be based on attendance, participation, and completion of tutorial problems. 
+
 #### Assignments (10%)
 
-  | S. No. | Content          | Marks | Due Date   |
-  |--------|------------------|-------|------------|
-  | 1      | Lectures 01 - 11 |       | Lecture 12 |
-  | 2      | Lectures 14 - 24 |       | Lecture 25 |
-  | 3      | Lectures 27 - 37 |       | Lecture 38 |
+  | S. No. | Content          | Due Date   |
+  |--------|------------------|------------|
+  | 1      | Lectures 01 - 11 | Lecture 12 |
+  | 2      | Lectures 14 - 24 | Lecture 25 |
+  | 3      | Lectures 27 - 37 | Lecture 38 |
 
 #### Quiz (40%)
 
-  | S. No. | Content          | Marks |
-  |--------|------------------|-------|
-  | 1      | Lectures 01 - 13 |       |
-  | 2      | Lectures 14 - 26 |       |
+  | S. No. | Content          |
+  |--------|------------------|
+  | 1      | Lectures 01 - 13 |
+  | 2      | Lectures 14 - 26 |
 
-#### End Sem (50%)
+#### End Sem (40%)
 
-  | Content          | Marks |
-  |------------------|-------|
-  | Lectures 01 - 13 |       |
-  | Lectures 14 - 26 |       |
-  | Lectures 27 - 40 |       |
+  | Content          |
+  |------------------|
+  | Lectures 01 - 13 |
+  | Lectures 14 - 26 |
+  | Lectures 27 - 40 |
