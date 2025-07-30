@@ -1,4 +1,4 @@
-# CE5540 - Data Analysis and Computation Techniques for Transportation Engineers
+# CE5540 - Data Analysis and Computation Techniques for Transportation Engineering
 
 ### Objectives
 
