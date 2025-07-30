@@ -13,14 +13,14 @@
 - Module 1. Transportation Probabilistic Analysis 
     - Probability Theory: fundamental concepts, properties of common distributions observed in transportation engineering
     - Statistical Inference: hypothesis testing, statistical errors
-    – Software: write your own code in R
+    - Software: write your own code in R
 
 - Module 2. Transportation Data Analysis
-    – Foundations: data types, exploratory data analysis and data visualization
+    - Foundations: data types, exploratory data analysis and data visualization
     - Regression: model estimation and diagnostics
     - Validation and Inference: model validation and interpretation of results
     - Case Studies: real-world applications in transportation engineering
-    - Software – write your own code in R
+    - Software: write your own code in R
 
 - Module 3. Computer Methods and Applications 
     - Foundations: principles of simulation models, macroscopic and microscopic simulation models for transportation engineering
