@@ -36,53 +36,53 @@
 
 ### Schedule
 
-  | S. No. | Topic                                   | Session  |
-  |--------|-----------------------------------------|----------|
-  | 01     | Data                                    | Lecture  |
-  | 02     | Statistics                              | Lecture  |
-  | 03     | Basics of R                             | Tutorial |
-  | 04     | Probability Theory                      | Lecture  |
-  | 05     | Distributions                           | Lecture  |
-  | 06     | Probability Analysis in R               | Tutorial |
-  | 07     | Sampling                                | Lecture  |
-  | 08     | Estimation                              | Lecture  |
-  | 09     | Sampling in R                           | Tutorial |
-  | 10     | Hypothesis Testing                      | Lecture  |
-  | 11     | Hypothesis Tests                        | Lecture  |
-  | 12     | Assignment #1 Discussion                | Tutorial |
-  | 13     | Surplus Lecture                         | Lecture  |
-  | -      | Quiz-I                                  |          |
-  | 14     | Multivariate Data                       | Lecture  |
-  | 15     | Surplus Tutorial                        | Tutorial |
-  | 16     | Data Visualization                      | Lecture  |
-  | 17     | Data Association                        | Lecture  |
-  | 18     | Multivariate Data Analysis in R         | Tutorial |
-  | 19     | Linear Regression - Foundations         | Lecture  |
-  | 20     | Linear Regression - Diagnostics         | Lecture  |
-  | 21     | Linear Regression in R                  | Tutorial |
-  | 22     | Logistic Regression - Foundations       | Lecture  |
-  | 23     | Logistic Regression - Diagnostics       | Lecture  |
-  | 24     | Logistic Regression in R                | Tutorial |
-  | 25     | Symbolic Regression                     | Lecture  |
-  | 26     | Assignment #2 Discussion                | Lecture  |
-  | -      | Quiz-II                                 |          |
-  | 27     | Setting up Python/Julia                 | Tutorial |
-  | 28     | Quiz-II Discussion                      | Lecture  |
-  | 29     | Simulation Modelling Basics             | Lecture  |
-  | 30     | Simulation in Python/Julia              | Tutorial |
-  | 31     | Simulation Models in Transportation     | Lecture  |
-  | 32     | Macroscopic Traffic Simulation          | Lecture  |
-  | 33     | Traffic Simulation in Python/Julia      | Tutorial |
-  | 34     | Microscopic Traffic Simulation          | Lecture  |
-  | 35     | Calibration and Validation              | Lecture  |
-  | 36     | Traffic Simulation in Python/Julia      | Tutorial |
-  | 37     | Optimization for Simulation             | Lecture  |
-  | 38     | Digital Shadow-Model-Twin               | Lecture  |
-  | 39     | Simulation-Optimization in Python/Julia | Tutorial |
-  | 40     | Assignment #3 Discussion                | Lecture  |
-  | 41     | Surplus Lecture                         | Lecture  |
-  | 42     | Surplus Tutorial                        | Tutorial |
-  | -      | End Sem                                 |          |
+  | S. No. | Topic                                      | Session  |
+  |--------|--------------------------------------------|----------|
+  | 01     | Data                                       | Lecture  |
+  | 02     | Statistics                                 | Lecture  |
+  | 03     | Basics of R                                | Tutorial |
+  | 04     | Probability Theory                         | Lecture  |
+  | 05     | Distributions                              | Lecture  |
+  | 06     | Probability Analysis in R                  | Tutorial |
+  | 07     | Sampling                                   | Lecture  |
+  | 08     | Estimation                                 | Lecture  |
+  | 09     | Sampling in R                              | Tutorial |
+  | 10     | Hypothesis Testing                         | Lecture  |
+  | 11     | Hypothesis Tests                           | Lecture  |
+  | 12     | Assignment #1 Discussion                   | Tutorial |
+  | 13     | Surplus Lecture                            | Lecture  |
+  | -      | Quiz-I                                     |          |
+  | 14     | Multivariate Data                          | Lecture  |
+  | 15     | Surplus Tutorial                           | Tutorial |
+  | 16     | Data Visualization                         | Lecture  |
+  | 17     | Data Association                           | Lecture  |
+  | 18     | Multivariate Data Analysis in R            | Tutorial |
+  | 19     | Linear Regression - Foundations            | Lecture  |
+  | 20     | Linear Regression - Diagnostics            | Lecture  |
+  | 21     | Linear Regression in R                     | Tutorial |
+  | 22     | Logistic Regression - Foundations          | Lecture  |
+  | 23     | Logistic Regression - Diagnostics          | Lecture  |
+  | 24     | Logistic Regression in R                   | Tutorial |
+  | 25     | Symbolic Regression                        | Lecture  |
+  | 26     | Assignment #2 Discussion                   | Lecture  |
+  | -      | Quiz-II                                    |          |
+  | 27     | Setting up Python                          | Tutorial |
+  | 28     | Surplus Lecture                            | Lecture  |
+  | 29     | Simulation Modelling                       | Lecture  |
+  | 30     | Writing Simulations in Python              | Tutorial |
+  | 31     | Consumer Behavior Theory                   | Lecture  |
+  | 32     | Consumer Behavior Simulation               | Lecture  |
+  | 33     | Behavioral Simulation in Python            | Tutorial |
+  | 34     | Macroscopic Traffic Theory                 | Lecture  |
+  | 35     | Macroscopic Traffic Simulation             | Lecture  |
+  | 36     | Macroscopic Traffic Simulation in Python   | Tutorial |
+  | 37     | Microscopic Traffic Theory                 | Lecture  |
+  | 38     | Microscopic Traffic Simulation             | Lecture  |
+  | 39     | Microscopic Traffic Simulation in Python   | Tutorial |
+  | 40     | Digital Shadow-Model-Twin                  | Lecture  |
+  | 41     | Assignment #3 Discussion                   | Lecture  |
+  | 42     | Introduction to Julia Programming Language | Tutorial |
+  | -      | End Sem                                    |          |
 
 ### Grading
 
