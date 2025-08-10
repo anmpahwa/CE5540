@@ -90,23 +90,23 @@
 
 #### Assignments (10%)
 
-  | S. No. | Content          | Due Date   |
-  |--------|------------------|------------|
-  | 1      | Topics.  01 - 11 | Lecture 12 |
-  | 2      | Lectures 14 - 24 | Lecture 25 |
-  | 3      | Lectures 27 - 38 | Lecture 39 |
+  | S. No. | Content        | Due Date   |
+  |--------|----------------|------------|
+  | 1      | Topics 01 - 11 | Lecture 12 |
+  | 2      | Topics 14 - 24 | Lecture 25 |
+  | 3      | Topics 27 - 38 | Lecture 39 |
 
 #### Quiz (40%)
 
-  | S. No. | Content          |
-  |--------|------------------|
-  | 1      | Lectures 01 - 11 |
-  | 2      | Lectures 14 - 24 |
+  | S. No. | Content        |
+  |--------|----------------|
+  | 1      | Topics 01 - 11 |
+  | 2      | Topics 14 - 24 |
 
 #### End Sem (40%)
 
-  | Content          |
-  |------------------|
-  | Lectures 01 - 11 |
-  | Lectures 14 - 24 |
-  | Lectures 27 - 38 |
+  | Content        |
+  |----------------|
+  | Topics 01 - 11 |
+  | Topics 14 - 24 |
+  | Topics 27 - 38 |
