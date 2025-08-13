@@ -31,3 +31,4 @@ parts:
 #    - file: content/lecture_25.ipynb
 #    - file: content/lecture_26.ipynb
     - file: content/lecture_27.ipynb
+    
