@@ -49,39 +49,37 @@
   | 09     | Sampling in R                              | Tutorial |
   | 10     | Hypothesis Testing                         | Lecture  |
   | 11     | Hypothesis Tests                           | Lecture  |
-  | 12     | Assignment #1 Discussion                   | Tutorial |
-  | 13     | Surplus Lecture                            | Lecture  |
+  | 12     | Assignment #1 Discussion                   |          |
   | -      | Quiz-I                                     |          |
+  | 13     | Quiz-I Discussion                          |          |
   | 14     | Multivariate Data                          | Lecture  |
-  | 15     | Surplus Tutorial                           | Tutorial |
-  | 16     | Data Visualization                         | Lecture  |
-  | 17     | Data Association                           | Lecture  |
-  | 18     | Multivariate Data Analysis in R            | Tutorial |
-  | 19     | Linear Regression - Foundations            | Lecture  |
-  | 20     | Linear Regression - Diagnostics            | Lecture  |
-  | 21     | Linear Regression in R                     | Tutorial |
-  | 22     | Logistic Regression - Foundations          | Lecture  |
-  | 23     | Logistic Regression - Diagnostics          | Lecture  |
-  | 24     | Logistic Regression in R                   | Tutorial |
-  | 25     | Symbolic Regression                        | Lecture  |
-  | 26     | Assignment #2 Discussion                   | Lecture  |
+  | 15     | Data Visualization                         | Lecture  |
+  | 16     | Data Association                           | Lecture  |
+  | 17     | Multivariate Data Analysis in R            | Tutorial |
+  | 18     | Linear Regression - Foundations            | Lecture  |
+  | 19     | Linear Regression - Diagnostics            | Lecture  |
+  | 20     | Linear Regression in R                     | Tutorial |
+  | 21     | Logistic Regression - Foundations          | Lecture  |
+  | 22     | Logistic Regression - Diagnostics          | Lecture  |
+  | 23     | Logistic Regression in R                   | Tutorial |
+  | 24     | Symbolic Regression                        | Lecture  |
+  | 25     | Assignment #2 Discussion                   |          |
   | -      | Quiz-II                                    |          |
+  | 26     | Quiz-II Discussion                         |          |
   | 27     | Setting up Python                          | Tutorial |
-  | 28     | Surplus Lecture                            | Lecture  |
-  | 29     | Simulation Modelling                       | Lecture  |
-  | 30     | Writing Simulations in Python              | Tutorial |
-  | 31     | Consumer Behavior Theory                   | Lecture  |
-  | 32     | Consumer Behavior Simulation               | Lecture  |
-  | 33     | Behavioral Simulation in Python            | Tutorial |
-  | 34     | Macroscopic Traffic Theory                 | Lecture  |
-  | 35     | Macroscopic Traffic Simulation             | Lecture  |
-  | 36     | Macroscopic Traffic Simulation in Python   | Tutorial |
-  | 37     | Microscopic Traffic Theory                 | Lecture  |
-  | 38     | Microscopic Traffic Simulation             | Lecture  |
-  | 39     | Microscopic Traffic Simulation in Python   | Tutorial |
-  | 40     | Digital Shadow-Model-Twin                  | Lecture  |
-  | 41     | Assignment #3 Discussion                   | Lecture  |
-  | 42     | Introduction to Julia Programming Language | Tutorial |
+  | 28     | Simulation Modeling                        | Lecture  |
+  | 29     | Writing Simulations in Python              | Tutorial |
+  | 30     | Consumer Behavior Theory                   | Lecture  |
+  | 31     | Consumer Behavior Simulation               | Lecture  |
+  | 32     | Behavioral Simulation in Python            | Tutorial |
+  | 33     | Macroscopic Traffic Theory                 | Lecture  |
+  | 34     | Macroscopic Traffic Simulation             | Lecture  |
+  | 35     | Macroscopic Traffic Simulation in Python   | Tutorial |
+  | 36     | Microscopic Traffic Theory                 | Lecture  |
+  | 37     | Microscopic Traffic Simulation             | Lecture  |
+  | 38     | Microscopic Traffic Simulation in Python   | Tutorial |
+  | 39     | Assignment #3 Discussion                   |          |
+  | 40     | Surplus                                    |          |
   | -      | End Sem                                    |          |
 
 ### Grading
@@ -92,23 +90,23 @@
 
 #### Assignments (10%)
 
-  | S. No. | Content          | Due Date   |
-  |--------|------------------|------------|
-  | 1      | Lectures 01 - 11 | Lecture 12 |
-  | 2      | Lectures 14 - 24 | Lecture 25 |
-  | 3      | Lectures 27 - 37 | Lecture 38 |
+  | S. No. | Content        | Due Date   |
+  |--------|----------------|------------|
+  | 1      | Topics 01 - 11 | Lecture 12 |
+  | 2      | Topics 14 - 24 | Lecture 25 |
+  | 3      | Topics 27 - 38 | Lecture 39 |
 
 #### Quiz (40%)
 
-  | S. No. | Content          |
-  |--------|------------------|
-  | 1      | Lectures 01 - 13 |
-  | 2      | Lectures 14 - 26 |
+  | S. No. | Content        |
+  |--------|----------------|
+  | 1      | Topics 01 - 11 |
+  | 2      | Topics 14 - 24 |
 
 #### End Sem (40%)
 
-  | Content          |
-  |------------------|
-  | Lectures 01 - 13 |
-  | Lectures 14 - 26 |
-  | Lectures 27 - 40 |
+  | Content        |
+  |----------------|
+  | Topics 01 - 11 |
+  | Topics 14 - 24 |
+  | Topics 27 - 38 |

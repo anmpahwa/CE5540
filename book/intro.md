@@ -67,7 +67,7 @@
   | -      | Quiz-II                                    |          |
   | 26     | Quiz-II Discussion                         |          |
   | 27     | Setting up Python                          | Tutorial |
-  | 28     | Simulation Modelling                       | Lecture  |
+  | 28     | Simulation Modeling                        | Lecture  |
   | 29     | Writing Simulations in Python              | Tutorial |
   | 30     | Consumer Behavior Theory                   | Lecture  |
   | 31     | Consumer Behavior Simulation               | Lecture  |
