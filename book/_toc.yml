@@ -33,4 +33,5 @@ parts:
     - file: content/lecture_27.ipynb
     - file: content/lecture_28.ipynb
     - file: content/lecture_29.ipynb
+    - file: content/lecture_30.ipynb
     
