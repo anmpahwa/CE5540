@@ -69,8 +69,8 @@
   | 27     | Setting up Python                          | Tutorial |
   | 28     | Simulation Modeling                        | Lecture  |
   | 29     | Surplus Tutorial                           | Tutorial |
-  | 30     | Discrete Event Simulation Theory           | Lecture  |
-  | 31     | Discrete Event Simulation Theory           | Lecture  |
+  | 30     | Discrete Event Simulation                  | Lecture  |
+  | 31     | Single-Server Queing Systems               | Lecture  |
   | 32     | Discrete Event Simulation in Python        | Tutorial |
   | 33     | Continuous Simulation Theory               | Lecture  |
   | 34     | Continuous Simulation Theory               | Lecture  |
