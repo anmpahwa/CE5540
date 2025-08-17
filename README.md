@@ -68,16 +68,16 @@
   | 26     | Quiz-II Discussion                         |          |
   | 27     | Setting up Python                          | Tutorial |
   | 28     | Simulation Modeling                        | Lecture  |
-  | 29     | Writing Simulations in Python              | Tutorial |
-  | 30     | Consumer Behavior Theory                   | Lecture  |
-  | 31     | Consumer Behavior Simulation               | Lecture  |
-  | 32     | Behavioral Simulation in Python            | Tutorial |
-  | 33     | Macroscopic Traffic Theory                 | Lecture  |
-  | 34     | Macroscopic Traffic Simulation             | Lecture  |
-  | 35     | Macroscopic Traffic Simulation in Python   | Tutorial |
-  | 36     | Microscopic Traffic Theory                 | Lecture  |
-  | 37     | Microscopic Traffic Simulation             | Lecture  |
-  | 38     | Microscopic Traffic Simulation in Python   | Tutorial |
+  | 29     | Surplus Tutorial                           | Tutorial |
+  | 30     | Discrete Event Simulation Theory           | Lecture  |
+  | 31     | Discrete Event Simulation Theory           | Lecture  |
+  | 32     | Discrete Event Simulation in Python        | Tutorial |
+  | 33     | Continuous Simulation Theory               | Lecture  |
+  | 34     | Continuous Simulation Theory               | Lecture  |
+  | 35     | Continuous Simulation in Python            | Tutorial |
+  | 36     | Agent-based Simulation Theory              | Lecture  |
+  | 37     | Agent-based Simulation Theory              | Lecture  |
+  | 38     | Agent-based Simulation in Python           | Tutorial |
   | 39     | Assignment #3 Discussion                   |          |
   | 40     | Surplus                                    |          |
   | -      | End Sem                                    |          |
