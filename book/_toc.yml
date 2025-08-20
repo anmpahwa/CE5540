@@ -12,7 +12,7 @@ parts:
     - file: content/lecture_06.ipynb
     - file: content/lecture_07.ipynb
     - file: content/lecture_08.ipynb
-    - file: content/lecture_09.ipynb
+#    - file: content/lecture_09.ipynb
     - file: content/lecture_10.ipynb
     - file: content/lecture_11.ipynb
 #    - file: content/lecture_12.ipynb
