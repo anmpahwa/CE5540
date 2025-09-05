@@ -72,12 +72,12 @@
   | 30     | Discrete Event Simulation                  | Lecture  |
   | 31     | Single-Server Queueing Systems             | Lecture  |
   | 32     | Discrete Event Simulation in Python        | Tutorial |
-  | 33     | Continuous Simulation Theory               | Lecture  |
-  | 34     | Continuous Simulation Theory               | Lecture  |
-  | 35     | Continuous Simulation in Python            | Tutorial |
-  | 36     | Agent-based Simulation Theory              | Lecture  |
-  | 37     | Agent-based Simulation Theory              | Lecture  |
-  | 38     | Agent-based Simulation in Python           | Tutorial |
+  | 33     | Agent-based Simulation                     | Lecture  |
+  | 34     | Car-Following Models                       | Lecture  |
+  | 35     | Cellular Automata in Python                | Tutorial |
+  | 36     | Digital Twin                               | Lecture  |
+  | 37     | Surplus                                    | Lecture  |
+  | 38     | Introduction to Julia Programming Language | Tutorial |
   | 39     | Assignment #3 Discussion                   |          |
   | 40     | Surplus                                    |          |
   | -      | End Sem                                    |          |
