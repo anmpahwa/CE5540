@@ -36,4 +36,7 @@ parts:
     - file: content/lecture_30.ipynb
     - file: content/lecture_31.ipynb
     - file: content/lecture_32.ipynb
+    - file: content/lecture_33.ipynb
+    - file: content/lecture_37.ipynb
+    - file: content/lecture_39.ipynb
     
