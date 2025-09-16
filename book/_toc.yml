@@ -20,10 +20,10 @@ parts:
     - file: content/lecture_14.ipynb
     - file: content/lecture_15.ipynb
     - file: content/lecture_16.ipynb
-#    - file: content/lecture_17.ipynb
+    - file: content/lecture_17.ipynb
     - file: content/lecture_18.ipynb
     - file: content/lecture_19.ipynb
-    - file: content/lecture_20.ipynb
+#    - file: content/lecture_20.ipynb
     - file: content/lecture_21.ipynb
     - file: content/lecture_22.ipynb
     - file: content/lecture_23.ipynb
