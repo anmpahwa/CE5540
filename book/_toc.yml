@@ -26,7 +26,7 @@ parts:
     - file: content/lecture_20.ipynb
     - file: content/lecture_21.ipynb
     - file: content/lecture_22.ipynb
-#    - file: content/lecture_23.ipynb
+    - file: content/lecture_23.ipynb
     - file: content/lecture_24.ipynb
 #    - file: content/lecture_25.ipynb
 #    - file: content/lecture_26.ipynb
