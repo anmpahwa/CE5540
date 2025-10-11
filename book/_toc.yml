@@ -29,7 +29,7 @@ parts:
     - file: content/lecture_23.ipynb
     - file: content/lecture_24.ipynb
     - file: content/lecture_25.ipynb
-#    - file: content/lecture_26.ipynb
+    - file: content/lecture_26.ipynb
     - file: content/lecture_27.ipynb
     - file: content/lecture_28.ipynb
     - file: content/lecture_29.ipynb
@@ -43,4 +43,5 @@ parts:
     - file: content/lecture_37.ipynb
     - file: content/lecture_38.ipynb
     - file: content/lecture_39.ipynb
+    - file: content/lecture_40.ipynb
     
